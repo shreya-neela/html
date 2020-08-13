@@ -2,17 +2,17 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <!DOCTYPE html 
 PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
-"DTD/xhtml1-transitional.dtd"> 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+"DTD/xhtml1-tra.dtd"> 
+<html xmlns="http://www.w3.org/" xml:lang="en" lang="en"> 
     <head> 
-        <title>Transitional DTD XHTML</title> 
+        <title>Tra DTD XHTML</title> 
     </head> 
     <body bgcolor="#dae1ed"> 
         <div style="color:#090;font-size:40px; 
                 font-weight:bold;text-align:center; 
-                margin-bottom:-25px;">GeeksforGeeks</div> 
+                margin-bottom:-25px;">open the window</div> 
         <p style="text-align:center;font-size:20px;"> 
-                A computer science portal</p> 
+                A portal</p> 
         <p style="text-align:center;font-size:20px;"> 
         Option to choose month: 
         <select name="month"> 
